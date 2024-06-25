@@ -26,8 +26,8 @@ body{
 
 .container{
     background-color: var(--dark-grey);
-    height: 85vh;
-    width: 25vw;
+    height: 600px;
+    width: 390px;
     display: flex;
     flex-direction: column;
     align-items: center;
