@@ -37,7 +37,7 @@ body{
 }
 
 .avatar-section{
-    padding: 10px;
+    padding-top: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
